@@ -19,7 +19,7 @@ export default function Profile() {
       email: "harshita.saini@tothenew.com",
       bio: "Passionate developer who loves working with frontend frameworks/library.",
       avatarUrl:
-        "https://ui-avatars.com/api/?name=Harshita+Saini&background=0070f3&color=fff",
+        "https://ui-avatars.com/api/?name=Harshita+Saini&background=0070f3&color=fff&format=png",
     });
   }, []);
 
